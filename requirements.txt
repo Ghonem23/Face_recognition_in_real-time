@@ -1,0 +1,7 @@
+opencv-python
+face_recognition
+numpy
+pymongo
+python-dotenv
+mangum
+asgiref
